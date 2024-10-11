@@ -5,6 +5,7 @@
 - [ ] Set DEBUG = False
 - [ ] Set APPEND_SLASH = True
 
+# Django Ch
 # SEO
 - [ ]  Make a robots.txt
 - [ ]  Add a Google Analytics, Statcounter Tracking codes
